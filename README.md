@@ -45,18 +45,18 @@ to get more info about project structure and installation details.
 
 Below some screenshots from application:
 
-![Main page](resources\images\1.png)
-![For business page](resources\images\2.png)
-![Create account page](resources\images\3.png)
-![Creating link in user panel](resources\images\4.png)
-![Features for every link](resources\images\5.png)
-![Generated QR code for link](resources\images\6.png)
-![Share link panel](resources\images\7.png)
-![Manage users and rights page](resources\images\8.png)
-![Account settings page](resources\images\9.png)
-![Create invoice form](resources\images\10.png)
-![Responsive sidebar](resources\images\11.png)
-![Swagger REST API docs](resources\images\12.png)
+![Main page](resources/images/1.png)
+![For business page](resources/images/2.png)
+![Create account page](resources/images/3.png)
+![Creating link in user panel](resources/images/4.png)
+![Features for every link](resources/images/5.png)
+![Generated QR code for link](resources/images/6.png)
+![Share link panel](resources/images/7.png)
+![Manage users and rights page](resources/images/8.png)
+![Account settings page](resources/images/9.png)
+![Create invoice form](resources/images/10.png)
+![Responsive sidebar](resources/images/11.png)
+![Swagger REST API docs](resources/images/12.png)
 
 
 ## Contributing
