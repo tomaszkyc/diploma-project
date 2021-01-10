@@ -3,7 +3,7 @@ This repository describes my Computer Science B. Eng. diploma project.
 
 ## Project description
 
-This project was a main topic of my diploma project. I make an url-shorter web app with a lot of integrations (social media sharing buttons, REST API integration, payments integrations and many more). As you can see the app frontend and some part of backend are in Polish but it was required to make the app as main diploma project. 
+This app was a main topic of my diploma. I make an url-shorter web app with a lot of integrations (social media sharing buttons, REST API integration, payments integrations and many more). As you can see the app frontend and some part of backend are in Polish but it was required to make the app as main diploma project. 
 
 Below description of tech stack of the project: 
 
